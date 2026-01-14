@@ -15,7 +15,7 @@ My work focuses on clean architecture, performance, and AI that actually ships.
 
 Python · FastAPI · LLMs · PostgreSQL · Distributed systems
 
-**Hobies**
+**Hobbies**
 - Gym
 - Gaming
 - Traveling
