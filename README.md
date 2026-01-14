@@ -1,4 +1,4 @@
-# Tamer
+# Hi, I'm Tamer 👋 
 
 **AI & Backend Developer** · Python Specialist  
 *Building production-grade AI systems for real-world businesses.*
