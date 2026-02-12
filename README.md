@@ -17,7 +17,7 @@ Python · FastAPI · LLMs · PostgreSQL · Distributed systems
 
 **Hobbies**
 - Gym
-- Gaming
+- Reading
 - Traveling
 <!--
 **TMR1905/TMR1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
